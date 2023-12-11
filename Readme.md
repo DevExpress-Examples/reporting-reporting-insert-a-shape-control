@@ -9,11 +9,10 @@
 * [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
 * [XtraReport1.cs](./CS/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/XtraReport1.vb))
 <!-- default file list end -->
-# How to insert a shape control into a report
+# Reporting for WinForms - How to Insert a Shape into a Report
 
+This example demonstrates how to create an `XRShape` control of different types, and set its basic properties.
 
-<p>This example demonstrates how to create an <strong>XRShape</strong> control of different types, and set its basic properties.</p>
+## Documentation
 
-<br/>
-
-
+* [XRShape](https://docs.devexpress.com/XtraReports/DevExpress.XtraReports.UI.XRShape)
